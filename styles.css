@@ -1,0 +1,13 @@
+body {
+  font-style: italic;
+}
+
+.column {
+  float: right;
+  background-color: lightgreen;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+}
